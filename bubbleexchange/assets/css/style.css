@@ -1,0 +1,98 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: 'Questrial', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    color: black;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Audiowide', cursive;
+}
+p{
+    font-family: 'Questrial', sans-serif;
+}
+.btn-warning{
+   background-color: #f8560a;
+   border-color: #f8560a;
+   color: #fff;
+}
+.bg-secondary{
+    background-color: #f2f1ed !important;
+}
+.btn{
+    padding: .375rem 1.75rem;
+}
+/* Navbar area start here */
+.navbar{}
+.navbar .navbar-brand{}
+.navbar .navbar-brand img{
+    max-width: 85%;
+}
+.navbar .navbar-nav{
+
+}
+.navbar .navbar-nav .nav-item{
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    border-right: 2px solid #e4e4e4;
+    line-height: 0;
+    color: rgb(0,0,0);
+    padding: 8px 18px;
+}
+.right-icon{
+    margin: 0;
+}
+.right-icon li{
+    list-style: none;
+}
+.right-icon li a{
+    font-size: 16px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    color: rgb(0,0,0);
+    line-height: 1.2;
+}
+
+/* hero area */
+.carousel-caption{
+    top:25%;
+}
+.carousel-control-next, .carousel-control-prev{
+    width: 3%;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    width: 2rem;
+    height: 3rem;
+    background-color: #DC4D0A;
+}
+
+  /* How to work */
+  
+  .media-body p{
+      font-size: 12px;
+  }
+ #how-to-work{
+    position: relative;
+    bottom: 57px;  
+ }
+ .title .title-text{
+     width: 60%;
+     margin: 15px auto;
+ }
+
+ #shop-by-catagory .side-content{
+    position: relative;
+    /* bottom: 0; */
+    left: 5%;
+    /* z-index: 555; */
+    /* display: block; */
+    top: -75%;
+    color: #fff;
+ }
+
